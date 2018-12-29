@@ -1,0 +1,21 @@
+.root {
+    flex: 1;
+}
+
+.grow {
+    flex: 1;
+}
+
+.menuButton {
+    margin-left: -12;
+    margin-right: 20;
+}
+
+.flex {
+    flex: 1;
+}
+
+.link-decoration {
+    text-decoration: 'none';
+    color: white;
+}
